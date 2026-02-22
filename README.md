@@ -47,7 +47,7 @@ PS C:\Users\YourName>
 ## 📁 File Structure
 
 ```
-profile.ps1       # Your PowerShell profile containing the full animation
+Microsoft.Powershell_profile.ps1       # Your PowerShell profile containing the full animation
 README.md         # This file
 ```
 
