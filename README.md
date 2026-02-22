@@ -160,4 +160,4 @@ This project is open-source and free to use, modify, and share.
 
 ---
 
-*Made with ❤️ for PowerShell enthusiasts*
+*Made with by Artleboss2*
